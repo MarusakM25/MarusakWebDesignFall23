@@ -1,0 +1,52 @@
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    font: arial;
+}
+
+body {
+    background-image: url("http://res.freestockphotos.biz/pictures/17/17082-surgeons-during-an-operation-pv.jpg");
+}
+
+header {
+    border-style: solid;
+}
+
+main {
+    background-color: lightslategray;
+    height: 80%;
+    width: 70%;
+    min-height: 600px;
+}
+
+footer {
+    background-color: lightslategray;
+}
+
+.job-title {
+    font-weight: bold;
+    color: maroon;
+}
+
+.large-list {
+    font-size: 25px;
+}
+
+ul {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    border: 5px black solid;
+}
+.box:hover{
+    width: 400px;
+    height: 400px;
+}
+
